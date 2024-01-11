@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! <b>I'm Ahmed Ashraf</b></h1>
+<h1 align="center">Hello There, <b>I'm Ahmed Ashraf</b></h1>
 
 `I’m Computer Science Student` at Alexandrai University <br>
 
