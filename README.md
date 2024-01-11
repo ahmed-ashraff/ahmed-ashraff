@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, <b>I'm Ahmed Ashraf</b></h1>
-<p align="center"><br>
-  <samp text-size="1000px">
- `I’m Computer Science Student` at Alexandrai University <br>
-  </samp>
-</p>
+<samp text-size="1000px">
+`I’m Computer Science Student` at Alexandrai University <br>
+</samp>
+
 
 - How to reach me **ahmed.aashraaff@gmail.com**
 
