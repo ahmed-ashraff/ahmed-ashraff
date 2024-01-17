@@ -1,9 +1,5 @@
 <h1 align="center">Hello There, <b>I'm Ahmed Ashraf</b></h1>
 
-`I’m Computer Science Student` at Alexandrai University <br>
-
-- How to reach me **ahmed.aashraaff@gmail.com**
-
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ashraf-08a785251/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@ahmeddashraff)
