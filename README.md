@@ -9,6 +9,8 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23FF8000.svg?&style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Bido_)
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/aahmeddashraf_/)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ashraff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 <p align="left">
