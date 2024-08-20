@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, <b>I'm Ahmed Ashraf</b></h1>
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ashraf-08a785251/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ashraf2004/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@ahmeddashraff)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ahmed-Ashraf-1593)
 [![Twitter](https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aahmeddAshraf_)
